@@ -1,0 +1,8 @@
+-I
+include
+-I
+android/ndk/toolchains/llvm/prebuilt/linux-x86_64
+-I
+android/ndk/sources/android/native_app_glue
+-I
+android/ndk/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/
