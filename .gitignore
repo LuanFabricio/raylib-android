@@ -2,4 +2,6 @@ android/
 raylib/
 lib/
 
+*.o
+
 *.apk
